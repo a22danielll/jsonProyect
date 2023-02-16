@@ -1,0 +1,14 @@
+[
+    {"Nombre":"Picos de Europa","Provincia":" Asturias, León y Cantabria","Ecosistema":"Alta montaña atlántica","fichero":"picos.jpg"},
+    {"Nombre":"Valle de Ordesa y Monte Perdido","Provincia":" Huesca","Ecosistema":"Alta montaña","fichero":"ordesa.jpg"},
+    {"Nombre":"Caldera de Taburiente","Provincia" :"Sta. Cruz de Tenerife","Ecosistema":"Volcánico","fichero":"caldera.jpg"},
+    {"Nombre":"Teide","Provincia":"Sta. Cruz de Tenerife","Ecosistema":"Volcánico","fichero":"teide.jpg"},
+    {"Nombre":"Aiguas Tortas y Lago de San Mauricio","Provincia":"Lleida","Ecosistema":"Alta montaña","fichero":"tortas.jpg"},
+    {"Nombre":"Doñana","Provincia":"Huelva, Sevilla y Cádiz","Ecosistema":"Humedal","fichero":"donana.jpg"},
+    {"Nombre":"Tablas de Daimiel","Provincia":" Ciudad Real","Ecosistema":"Humedal","fichero":"daimiel.jpg"},
+    {"Nombre":"Cabañeros","Provincia":"Ciudad Real y Toledo","Ecosistema":"media-alta montaña mediterránea","fichero":"cabaneros.jpg"},
+    {"Nombre":"Sierra Nevada","Provincia":" Granada y Almería","Ecosistema":" media-alta montaña mediterránea","fichero":"nevada.jpg"},
+    {"Nombre":"Islas Atlánticas de Galicia","Provincia":" Pontevedra y La Coruña","Ecosistema":" marítimo-terrestre","fichero":"cies.jpg"},
+    {"Nombre":"Monfragüe","Provincia":" Cáceres","Ecosistema":" media-alta montaña mediterránea","fichero":"monfrague.jpg"},
+    {"Nombre":"Sierra de Guadarrama","Provincia":"Madrid y Segovia","Ecosistema":"Alta montaña mediterránea","fichero":"guadarrama.jpg"}
+]
